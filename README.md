@@ -17,7 +17,7 @@ Projeto **Grupo Viceri**  Formação de Talentos 2018
 ## Startup
 1- Depois de baixar o projeto compile o projeto, para que todas as referências sejam feitas download.
 
-2- No projeto **Fatec.Clinica.Database** faça o deploy em sua instância de banco de dados com as tabelas **Especialidades** e **Médico** - vide documento **deploy_base.doc**
+2- No projeto **Fatec.Clinica.Database** faça o deploy em sua instância de banco de dados com as tabelas **Especialidades** e **Médico** - vide documento **deploy_base.docx**
 
 3- Na classe **DbConnectionFactory** altere a propriedade *SQLConnectionString* para a string de conexão de sua máquina
 
