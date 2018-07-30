@@ -26,7 +26,7 @@ Projeto **Grupo Viceri**  Formação de Talentos 2018
  
  - Caso seja necessário, enviar um documento com particularidades que precisam executar, para o funcionamento da aplicação.
  
- - Depois de colocar em um ambiente na Viceri, disponibilizarei o endereço para testes. Caso tenham que alterar alguma coisa, vocês terão 1 à partir do dia 08/08/2018 para se mandar o outro pacote.
+ - Depois de colocar em um ambiente na Viceri, disponibilizarei o endereço para testes. Caso tenham que alterar alguma coisa, vocês terão 1 dia à partir do dia 08/08/2018 para se mandar o outro pacote.
 
 ## Apresentação
   - As apresentações serão na sede do **Grupo Viceri** 
