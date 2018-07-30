@@ -36,7 +36,7 @@ Projeto **Grupo Viceri**  Formação de Talentos 2018
   - As apresentações terão 40 minutos de duração
   - Chegar 30 minutos antes do horário combinado, para ajustes finais na apresentação.
   
-**Qualquer dúvida entre em contato com a gente (fmendes@viceri.com.br / gtraldi@viceri.com.br) **
+**Qualquer dúvida entre em contato com a gente (fmendes@viceri.com.br / gtraldi@viceri.com.br)**
   
 # Boa sorte !!
  
