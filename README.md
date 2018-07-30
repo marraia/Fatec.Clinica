@@ -36,7 +36,7 @@ Projeto **Grupo Viceri**  Formação de Talentos 2018
   
 **Qualquer dúvida entre em contato com a gente (fmendes@viceri.com.br / gtraldi@viceri.com.br) **
   
-#Boa sorte !!
+# Boa sorte !!
  
 
 
