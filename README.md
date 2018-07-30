@@ -24,7 +24,7 @@ Projeto **Grupo Viceri**  Formação de Talentos 2018
 4- O projeto do site está na pasta **Apresentação**
 
 ## Entregáveis
- - Data da entrega será dia 07/08/2018 até às 00:00(meia noite) no email fmendes@viceri.com.br. Com o título [Formação de Talentos] - Entrega "Nome do Time"
+ - Data da entrega será dia 13/08/2018 até às 00:00(meia noite) no email fmendes@viceri.com.br. Com o título [Formação de Talentos] - Entrega "Nome do Time"
  
  - Caso seja necessário, enviar um documento com particularidades que precisam executar, para o funcionamento da aplicação.
  
