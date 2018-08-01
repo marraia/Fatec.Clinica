@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Usuario]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[Email] VARCHAR(100) NOT NULL,
+	[Senha] VARCHAR(8) NOT NULL,
+	[Cpf] VARCHAR(11) NOT NULL,
+	[Tipo] CHAR NOT NULL,
+	[Ativo] BIT NOT NULL
+	
+)

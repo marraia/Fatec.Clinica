@@ -62,5 +62,6 @@
   <ItemGroup>
     <Build Include="dbo\Medico.sql" />
     <Build Include="dbo\Especialidade.sql" />
+    <Build Include="dbo\Usuario.sql" />
   </ItemGroup>
 </Project>
