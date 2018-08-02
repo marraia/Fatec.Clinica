@@ -5,18 +5,17 @@
 
     <meta charset="utf-8">
 
-    <title>Projeto - Médicos</title>
+    <title>Projeto - Adicionar Paciente</title>
 
     <link rel="stylesheet" href="../../../css/bootstrap.css">
     <link rel="stylesheet" href="../../../css/style.css">
-    <link rel="stylesheet" href="medico.css">
-
+    <link rel="stylesheet" href="../login/login.css">
     <script src="../../../lib/jquery.js"></script>
     <script src="../../../lib/bootstrap.bundle.min.js"></script>
 
 </head>
 
-<body>
+<body class="text-center">
 
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand mr-5 ml-5" href="#">Projeto</a>
@@ -30,13 +29,13 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Dashboard</a>
                 </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Médico
+                <li class="nav-item">
+                    <a class="nav-link" href="../medico/medico.html">Médico
                         <span class="sr-only">(current)</span>
                     </a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="../paciente/paciente.html">Paciente</a>
+                <li class="nav-item active">
+                    <a class="nav-link" href="paciente.html">Paciente</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link disabled" href="#">Disabled</a>
@@ -62,19 +61,63 @@
 
     <main role="main" class="container">
 
-        <h2 class="mb-3">
-            Médicos
+        <h2 class="mb-3" id="titulo-medico">
+
         </h2>
 
-        <span>
-            <a href="medicoCriar.html">Adicionar novo</a>
-        </span>
+        <form class="form-signin col-md-4 col-mb-3" id="form-medico">
 
-        <div class="mt-5" id="medicos"></div>
+            <!--Informações Básicas-->
+
+            <div class="form-group">
+                <input type="text" name="nome" id="nome" class="form-control" placeholder="Nome">
+            </div>
+
+            <div class="form-group">
+                <input type="text" name="cpf" id="cpf" class="form-control" placeholder="CPF">
+            </div>
+
+            <div class="form-group">
+                <input type="text" name="celular" id="celular" class="form-control" placeholder="Celular">
+            </div>
+
+            <div class="form-row">
+                <div class="col-md-8 mb-3">
+
+                    <input type="text" name="data-nasc" id="data-nasc" class="form-control" placeholder="Data de Nascimento">
+
+                </div>
+
+                <div class="col mb-3">
+                    <select name="sexo" id="sexo" class="form-control">
+                        <option selected>Sexo</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="col">
+                    <input type="password" name="senha" id="senha" class="form-control" placeholder="Senha">
+                </div>
+
+                <div class="col mb-2">
+                    <input type="password" name="confirmar-senha" id="confirmar-senha" class="form-control" placeholder="Confirmar Senha">
+                </div>
+            </div>
+
+
+
+            <button class="btn btn-lg btn-success btn-login" type="submit">Cadastrar</button>
+
+        </form>
 
     </main>
 
-    <script src="medico.js"></script>
+    <!-- Script com ligações para banco e visual studio -->
+
+    <script src="pacienteCriar.js"></script>
+
+
 </body>
 
 </html>
