@@ -1,0 +1,24 @@
+body {background-color: #343f6a;}
+
+.foto{
+    border: solid 1px silver;
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    display: inline-block;  
+    background-color: white;
+}
+.forgot{
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    
+}
+.possui{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+footer {
+    bottom:0;
+}
